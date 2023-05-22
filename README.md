@@ -28,7 +28,7 @@ The website is built using the following technologies:
 
 
 ## Deployment
-The website is currently deployed on 000webhostapp.com, using their free hosting plan. The deployment process involves uploading the source code and related files to the hosting provider's server.
+The website is currently deployed on [000webhost.com](https://www.000webhost.com), using their free hosting plan. The deployment process involves uploading the source code and related files to the hosting provider's server.
 
 ## Usage
 To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp.com) in your web browser. From the homepage, you can navigate through the various sections using the top menu or explore specific features through clickable buttons or links.
