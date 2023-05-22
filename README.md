@@ -7,6 +7,7 @@
 * [Description](#Description)
   * [Features](#Features)
 * [Technologies Used](#Technologies-Used)
+* [Installation Steps](#Installation-Steps)
 * [Deployment](#Deployment)
 * [Usage](#Usage)
 * [Examples](#Examples)
