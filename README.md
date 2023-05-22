@@ -1,5 +1,12 @@
 # CATJoneProject
 
+## Contents
+*[Description](#Description)
+  *[Features](#Features)
+*[Technologies Used](#Technologies Used)
+*[Deployment](#Deployment)
+*[Usage](#Usage)
+*[Examples](#Examples)
 
 ## Description
 The website is designed to showcase information about cats. It provides a platform for cat lovers to learn more about different cat breeds, their characteristics, and care tips. The website includes various sections such as:
@@ -24,4 +31,5 @@ The website is currently deployed on 000webhostapp.com, using their free hosting
 ## Usage
 To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp.com) in your web browser. From the homepage, you can navigate through the various sections using the top menu or explore specific features through clickable buttons or links.
 
+## Examples
 
