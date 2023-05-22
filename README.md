@@ -35,14 +35,14 @@ To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp
 
 ## Examples
 
-* Home Page
+> ### Home Page
 
 ![Home Page](https://cdn.discordapp.com/attachments/806864849488707587/1110068062192947250/image.png)
 
-* Meow Page
+> #### Meow Page
 
 ![Meow Page](https://cdn.discordapp.com/attachments/806864849488707587/1110068122003705866/image.png)
 
-* Guide Page
+> ##### Guide Page
 
 ![Guide Page](https://cdn.discordapp.com/attachments/806864849488707587/1110075714453114971/image.png)
