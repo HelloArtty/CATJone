@@ -69,5 +69,5 @@ To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp
 
 
 
-<img src="https://media3.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=790b76111a687a396138a8fcccb967b842741054f92aa369&rid=giphy.gif&ct=s" width="250" />
+<img align="center" src="https://media3.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=790b76111a687a396138a8fcccb967b842741054f92aa369&rid=giphy.gif&ct=s" width="250" />
  <p align="center">Thank you for visiting Catjone! We hope you have a purr-fect experience exploring the world of cats.❤️</p>
