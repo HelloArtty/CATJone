@@ -32,4 +32,5 @@ The website is currently deployed on 000webhostapp.com, using their free hosting
 To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp.com) in your web browser. From the homepage, you can navigate through the various sections using the top menu or explore specific features through clickable buttons or links.
 
 ## Examples
+![Home Page](https://cdn.discordapp.com/attachments/806864849488707587/1110068062192947250/image.png)
 
