@@ -7,7 +7,9 @@
 * [Deployment](#Deployment)
 * [Usage](#Usage)
 * [Examples](#Examples)
-
+ * [Home Page](#Home-Page)
+ * [Meow Page](#Meow-Page)
+ * [Guide Page](#Guide-Page)
 ## Description
 The website is designed to showcase information about cats. It provides a platform for cat lovers to learn more about different cat breeds, their characteristics, and care tips. The website includes various sections such as:
 
@@ -33,14 +35,14 @@ To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp
 
 ## Examples
 
-1. Home Page
+* Home Page
 
 ![Home Page](https://cdn.discordapp.com/attachments/806864849488707587/1110068062192947250/image.png)
 
-2. Meow Page
+* Meow Page
 
 ![Meow Page](https://cdn.discordapp.com/attachments/806864849488707587/1110068122003705866/image.png)
 
-3. Guide Page
+* Guide Page
 
 ![Guide Page](https://cdn.discordapp.com/attachments/806864849488707587/1110075714453114971/image.png)
