@@ -60,3 +60,5 @@ To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp
 > ### Guide Page
 
 ![Guide Page](https://cdn.discordapp.com/attachments/806864849488707587/1110075714453114971/image.png)
+
+ <p align="center">Thank you for visiting Catjone! We hope you have a purr-fect experience exploring the world of cats.❤️</p>
