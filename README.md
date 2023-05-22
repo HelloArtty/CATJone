@@ -12,15 +12,16 @@ The website is designed to showcase information about cats. It provides a platfo
 ## Technologies Used
 The website is built using the following technologies:
 
-1. HTML
-2. CSS
-3. JavaScript
-4. PHP
+* HTML
+* CSS
+* JavaScript
+* PHP
 
 
 ## Deployment
 The website is currently deployed on 000webhostapp.com, using their free hosting plan. The deployment process involves uploading the source code and related files to the hosting provider's server.
 
 ## Usage
-To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp.com)in your web browser. From the homepage, you can navigate through the various sections using the top menu or explore specific features through clickable buttons or links.
+To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp.com) in your web browser. From the homepage, you can navigate through the various sections using the top menu or explore specific features through clickable buttons or links.
+
 
