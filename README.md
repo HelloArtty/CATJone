@@ -2,7 +2,6 @@
 
 # CATJoneProject
 ---
----
 
 ## Contents
 * [Description](#Description)
@@ -37,8 +36,8 @@ The website is built using the following technologies:
 3. Start XAMPP: After the installation is complete, start the XAMPP Control Panel. On Windows.
 4. Start Apache and MySQL: In the XAMPP Control Panel, start the Apache and MySQL services by clicking the "Start" buttons next to their respective names. If the services start successfully, you will see a green indicator next to each service.
 5. Verify Installation: Open a web browser and enter http://localhost in the address bar. If you see the XAMPP welcome page, it means that Apache is running correctly.
-6. Clone this repository: Open [CATJoneProject](https://github.com/HelloArtty/DemoProject131) and clone project to your computer.
-7. Navigate to the project directory: Open directory project, drag and drop folder project on ```C:\xampp\htdocs``` Save the file and access it through your web browser  (e.g., ```http://localhost/(namefolderproject)```).
+6. Clone this repository: Open [CATJoneProject](https://github.com/HelloArtty/CATJone) and clone or download project to your computer, rename folder to CATJone.
+7. Navigate to the project directory: Open directory project, drag and drop folder project on ```C:\xampp\htdocs``` Save the file and access it through your web browser  (e.g., ```http://localhost/CATJone```).If you are configured correctly, you should see the Home information page.
 
 
 ## Deployment
