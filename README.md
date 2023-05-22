@@ -3,8 +3,6 @@
 # CATJoneProject
 ---
 
-<img src="https://media3.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=790b76111a687a396138a8fcccb967b842741054f92aa369&rid=giphy.gif&ct=s" width="250" />
-
 
 ## Contents
 * [Description](#Description)
@@ -18,6 +16,7 @@
   * [Meow Page](#Meow-Page)
   * [Guide Page](#Guide-Page)
 
+
 ## Description
 The website is designed to showcase information about cats. It provides a platform for cat lovers to learn more about different cat breeds, their characteristics, and care tips. The website includes various sections such as:
 
@@ -26,6 +25,7 @@ The website is designed to showcase information about cats. It provides a platfo
 2. Cat Breeds: Displays a comprehensive list of cat breeds with detailed descriptions and images. <br>
 3. Care Tips: Offers valuable information and advice on how to care for cats, including grooming, feeding, and healthcare.
 
+
 ## Technologies Used
 The website is built using the following technologies:
 
@@ -33,6 +33,7 @@ The website is built using the following technologies:
 * CSS
 * JavaScript
 * PHP
+
 
 ## Installation Steps
 1. Download XAMPP: Visit the official XAMPP website [XAMPP](https://www.apachefriends.org) and download the appropriate version of XAMPP for your operating system.
@@ -47,8 +48,10 @@ The website is built using the following technologies:
 ## Deployment
 The website is currently deployed on [000webhost.com](https://www.000webhost.com), using their free hosting plan. The deployment process involves uploading the source code and related files to the hosting provider's server.
 
+
 ## Usage
 To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp.com) in your web browser. From the homepage, you can navigate through the various sections using the top menu or explore specific features through clickable buttons or links.
+
 
 ## Examples
 
@@ -64,4 +67,7 @@ To use the CatJone website, simply visit [CATJone](https://catjone.000webhostapp
 
 ![Guide Page](https://cdn.discordapp.com/attachments/806864849488707587/1110075714453114971/image.png)
 
+
+
+<img src="https://media3.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=790b76111a687a396138a8fcccb967b842741054f92aa369&rid=giphy.gif&ct=s" width="250" />
  <p align="center">Thank you for visiting Catjone! We hope you have a purr-fect experience exploring the world of cats.❤️</p>
