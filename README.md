@@ -7,9 +7,9 @@
 * [Deployment](#Deployment)
 * [Usage](#Usage)
 * [Examples](#Examples)
- * [Home Page](#Home-Page)
- * [Meow Page](#Meow-Page)
- * [Guide Page](#Guide-Page)
+  * [Home Page](#Home-Page)
+  * [Meow Page](#Meow-Page)
+  * [Guide Page](#Guide-Page)
 ## Description
 The website is designed to showcase information about cats. It provides a platform for cat lovers to learn more about different cat breeds, their characteristics, and care tips. The website includes various sections such as:
 
