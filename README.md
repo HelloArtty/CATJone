@@ -1,12 +1,12 @@
 # CATJoneProject
 
 ## Contents
-*[Description](#Description)
-  *[Features](#Features)
-*[Technologies Used](#Technologies Used)
-*[Deployment](#Deployment)
-*[Usage](#Usage)
-*[Examples](#Examples)
+* [Description](#Description)
+  * [Features](#Features)
+* [Technologies Used](#Technologies-Used)
+* [Deployment](#Deployment)
+* [Usage](#Usage)
+* [Examples](#Examples)
 
 ## Description
 The website is designed to showcase information about cats. It provides a platform for cat lovers to learn more about different cat breeds, their characteristics, and care tips. The website includes various sections such as:
